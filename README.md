@@ -1,4 +1,4 @@
-# personal
+# Profile Overview
 ## 👋 Hi, I’m Pravin
 I’m an aspiring AI/ML enthusiast with a strong background in Python, Probability, Statistics, and SQL. My current focus is on building expertise in **Machine Learning (ML)** and **Generative AI (GenAI)** through hands-on projects that solve real-world problems. I’m passionate about leveraging cutting-edge AI technologies to create innovative solutions across industries.
 
